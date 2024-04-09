@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png)" height="30" alt="amazonwebservices logo"  />
 </div>
 
 ###
